@@ -1,1 +1,4 @@
 # Life-Expectancy-using-Power-BI
+The Life Expectancy Power BI project is aimed at providing valuable insights into the life expectancy trends across different countries and regions over time. Life expectancy is a crucial indicator of the overall health and well-being of populations, and understanding its patterns can help policymakers, healthcare professionals, and researchers make informed decisions and interventions.
+
+This project utilizes Power BI, a powerful business analytics tool, to analyze and visualize life expectancy data sourced from various reputable sources such as the World Bank, the World Health Organization (WHO), and other international organizations. The data encompasses a wide range of demographic, socioeconomic, and health-related factors that influence life expectancy, including GDP per capita, healthcare expenditure, prevalence of diseases, education levels, and environmental factors.
